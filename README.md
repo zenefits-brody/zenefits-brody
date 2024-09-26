@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @zenefits-brody
-- 👀 I’m interested in interesting ideas.
-- 🌱 I’m currently learning how to build a web app from frontend to backend and bring it to production.
-- 💞️ I’m looking to collaborate on ❓.
+- 👋 Hi, I’m Brody Chen.
 - 📫 You can reach me by 📧 brody.chen@trinet.com.
 
 <!---
